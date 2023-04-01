@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—¥¤
+y
+java:S4165!"cRemove this useless assignment; "lista" already holds the assigned value along all execution paths.(·òÍ‰
+L
+java:S1068"1Remove this unused "listaCompleta" private field.(¤ã½õşÿÿÿÿ

@@ -1,0 +1,27 @@
+
+h
+8app/src/main/java/com/example/api/callback/Callback.java,8\b\8bdc973a86ed8eb87b2b7e80ba1578286621e268
+h
+8app/src/main/java/com/example/api/Listas/categorias.java,e\8\e821417feee95d52eac93d2373e4a4766e069d42
+n
+>app/src/main/java/com/example/api/Model/AdapterHorizontal.java,e\4\e41987e8f71125a9f11dcd93b0daef0fa37e0064
+l
+<app/src/main/java/com/example/api/Model/CategoryAdapter.java,8\3\833a5fadde0463fc2832183ecd69049fa818adf4
+y
+Iapp/src/main/java/com/example/api/Networking/Adapter/RetrofitAdapter.java,d\0\d0d810621caa195168e02827138d261fc3423d59
+h
+8app/src/main/java/com/example/api/Presenter/onClick.java,3\d\3d0cefd17234bbdda67fa2cabee4404ade50ff83
+a
+1app/src/main/java/com/example/api/View/Login.java,c\d\cdc1bb7d8ac2e3a27cfcca4cf7b15b3e609ef6ae
+h
+8app/src/main/java/com/example/api/View/MainActivity.java,8\4\84a71e6c274d98c25a0e52528f7abb63a62143df
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+y
+Iapp/src/main/java/com/example/api/Networking/Adapter/NetworkingUtils.java,d\3\d373485a58ccfa5084f8d16e6593b7c181d1a9d6
+d
+4app/src/main/java/com/example/api/View/Detalles.java,7\2\72ee389197ec64e686f972c9377892d26b464b03
+m
+=app/src/main/java/com/example/api/Model/AdapterListGames.java,1\c\1c5efa201d4780a13105a24149a10bffd0f37c49
+i
+9app/src/main/java/com/example/api/Presenter/Game_api.java,9\7\975e47d37a6f2c2d51960783a86de47c955e6bff

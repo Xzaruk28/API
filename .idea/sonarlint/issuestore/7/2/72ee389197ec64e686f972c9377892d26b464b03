@@ -1,0 +1,8 @@
+
+C
+java:S1604+"(Make this anonymous inner class a lambda(ÚûÌÒıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä³õ¿
+o
+java:S1450"TRemove the "arrow" field and declare it as a local variable in the relevant methods.(ó€øÿÿÿÿ
+l
+java:S1450"VRemove the "gamedto" field and declare it as a local variable in the relevant methods.(ğ«şª
